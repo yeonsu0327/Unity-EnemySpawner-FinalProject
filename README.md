@@ -38,3 +38,7 @@ Unity에서 **Instantiate 함수**와 **Prefab**을 활용하여 적(Enemy)을 �
  - 적 스폰 & UI 상황 표시 확인
 
 
+## 시연 영상
+https://github.com/user-attachments/assets/31fd5aae-3757-4dd8-a05b-fa0fe19c78ab
+
+
