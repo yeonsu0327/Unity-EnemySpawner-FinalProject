@@ -30,9 +30,10 @@ Unity에서 **Instantiate 함수**와 **Prefab**을 활용하여 적(Enemy)을 �
 
 ## 실행 방법
 
-1. Unity Hub에서 이 프로젝트를 엽니다.
-2. '자산/장면/샘플씬' 씬 실행.
-3. **Play 버튼** 클릭 후:
+1. Unity Hub에서 프로젝트 열기
+2. Unity 2021.3 LTS 이상 권장
+3. 'Assets/Snece/d' 씬 실행.
+4. **Play 버튼** 클릭 후:
  - WASD 키로 이동
  - 마우스 클릭으로 총알 발사
  - 적 스폰 & UI 상황 표시 확인
