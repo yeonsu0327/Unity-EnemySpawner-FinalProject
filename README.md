@@ -1,6 +1,6 @@
 # 🎮 Unity Enemy Spawner Shooter
 
-Unity 기말 프로젝트.
+엔진프로그래밍 Unity 기말 프로젝트.
 
 이 프로젝트는 Unity에서 **Instantiate 함수**와 **Prefab**을 활용하여  
 적(Enemy)을 생성하고, 플레이어 이동과 총알 발사 시스템을 구현한 간단한 슈팅 게임입니다.  
